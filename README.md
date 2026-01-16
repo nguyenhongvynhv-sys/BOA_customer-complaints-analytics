@@ -53,10 +53,31 @@ Exploratory Data Analysis (EDA), descriptive analytics, trend analysis, segmenta
 **Solution:** Framed insights around governance, CX improvement, and operational risk use cases
 
 ## Visualisations and Insights
-- Complaint volume trends over time highlighted periods of elevated operational stress  
-- Product- and issue-level breakdowns identified categories driving disproportionate dissatisfaction  
-- Resolution timeliness analysis showed strong correlation with negative customer outcomes  
-- Geographic analysis revealed regional complaint concentration, supporting targeted intervention  
+- Complaint volume trends over time highlighted periods of elevated operational stress
+![Complaint Trends](images/complaints_trend.png)
+- Product- and issue-level breakdowns identified categories driving disproportionate dissatisfaction
+![Product Breakdown](images/complaints-product.png)
+- Resolution timeliness analysis showed strong correlation with negative customer outcomes
+![Complaints Trend](images/company_responses.png)
+- Geographic analysis revealed regional complaint concentration, supporting targeted intervention
+![Geographic Analysis](images/geographic_trend.png)
 
-## Key Takeaways
-This project demonstrates how large-scale customer complaint data can be transformed into meaningful insights to support customer experience improvement, governance reporting, and risk mitigation in financial services.
+## End Results
+
+- Identified **key drivers of customer dissatisfaction** across the banking sector, with complaint volume and resolution timeliness emerging as the strongest indicators of negative customer outcomes.
+- Found that **specific product categories and issue types** consistently generated disproportionate complaint volumes, indicating structural and process-related weaknesses rather than isolated incidents.
+- Demonstrated a clear relationship between **delayed response times and unresolved complaints**, increasing regulatory and reputational risk.
+- Highlighted **geographic concentration of complaints**, suggesting the need for targeted operational and service interventions rather than uniform, enterprise-wide responses.
+- Provided a focused case analysis on Bank of America to illustrate how complaint analytics can be used to prioritise risk areas and improve customer experience at an institutional level.
+
+## Recommendations
+
+- **Prioritise high-risk products and issue categories** by allocating additional resources to complaint prevention and early resolution in these areas.
+- **Improve response-time SLAs** for customer complaints, particularly for high-severity issues, to reduce dissatisfaction and regulatory exposure.
+- Implement **proactive monitoring dashboards** to track complaint trends, resolution performance, and emerging risks in near real time.
+- Use complaint analytics to **inform customer experience initiatives**, operational process redesign, and frontline staff training.
+- Embed complaint data into **governance and reporting frameworks** to support continuous improvement, accountability, and data-driven decision-making.
+
+## Business Value
+
+The analysis demonstrates how customer complaint data can be leveraged as a strategic asset to improve customer experience, strengthen governance, and mitigate operational and reputational risk within financial services organisations.
